@@ -15,9 +15,7 @@ Rhymer is a lightweight repository demonstrating how to fine‑tune a pretrained
    * [Fine‑tuning](#fine-tuning)
    * [Post‑Fine‑Tune Testing](#post-fine-tune-testing)
 6. [Final Model](#final-model)
-7. [Contributing](#contributing)
-8. [License](#license)
-9. [References](#references)
+7. [References](#references)
 
 ---
 
